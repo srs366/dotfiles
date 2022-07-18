@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = srs366@cornell.edu
+	name = Stefan Sujanthakumar
